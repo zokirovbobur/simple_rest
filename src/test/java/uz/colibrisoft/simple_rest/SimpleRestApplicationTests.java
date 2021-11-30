@@ -11,6 +11,7 @@ public class SimpleRestApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("Hello test");
     }
 
 }
