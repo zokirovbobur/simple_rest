@@ -12,6 +12,7 @@
     <artifactId>simple_rest</artifactId>
     <version>1</version>
     <name>simple_rest</name>
+    <packaging>war</packaging>
     <description>Demo project for Spring Boot</description>
 
     <properties>
